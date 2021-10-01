@@ -1,0 +1,13 @@
+export const LANDING = '/';
+export const HOME = '/home';
+export const MOVIES = '/movies';
+export const MOVIES_DETAILS = '/movies/:id';
+export const TV_SHOWS = '/tv-shows';
+export const TV_SHOWS_DETAILS = '/tv-shows/:id';
+export const SEARCH = '/search/:query';
+export const PROFILE = '/profile';
+export const WATCH_LIST = '/watch-list';
+export const AUTH_SIGN_IN = '/auth/sigin';
+export const AUTH_SIGN_OUT = '/auth/signout';
+export const AUTH_REGISTRATION = '/auth/registration';
+export const FOUROFOUR = '/404';
